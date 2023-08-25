@@ -1,0 +1,17 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "source": "github_identicon.js",
+  "main": "dist/github_identicon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
