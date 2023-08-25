@@ -121,7 +121,7 @@
 71/home/hungptran/playground/node_modules/caniuse-lite/data/regions/MA.js1692931987616591442 0
 71/home/hungptran/playground/node_modules/caniuse-lite/data/regions/NR.js1692931987644591204 0
 75/home/hungptran/playground/node_modules/caniuse-lite/data/regions/alt-ww.js1692931987072596063 0
-31/home/hungptran/playground/dist1692932277702149505 1
+31/home/hungptran/playground/dist1692969919289424487 1
 71/home/hungptran/playground/node_modules/caniuse-lite/data/regions/LB.js1692931987604591543 0
 71/home/hungptran/playground/node_modules/caniuse-lite/data/regions/IS.js1692931987584591713 0
 71/home/hungptran/playground/node_modules/caniuse-lite/data/regions/DM.js1692931987480592597 0
@@ -298,7 +298,7 @@
 89/home/hungptran/playground/node_modules/caniuse-lite/data/features/requestidlecallback.js1692931987680590898 0
 92/home/hungptran/playground/node_modules/caniuse-lite/data/features/keyboardevent-location.js1692931987596591611 0
 82/home/hungptran/playground/node_modules/caniuse-lite/data/features/input-number.js1692931987572591815 0
-55/home/hungptran/playground/dist/github_identicon.js.map1692932277702149505 0
+55/home/hungptran/playground/dist/github_identicon.js.map1692969919289424487 0
 92/home/hungptran/playground/node_modules/caniuse-lite/data/features/css-boxdecorationbreak.js1692931987340593786 0
 93/home/hungptran/playground/node_modules/caniuse-lite/data/features/stricttransportsecurity.js1692931987704590694 0
 65/home/hungptran/playground/node_modules/svgo/plugins/sortAttrs.js1692931987160595315 0
@@ -2266,7 +2266,7 @@
 87/home/hungptran/playground/node_modules/caniuse-lite/data/features/css-rebeccapurple.js1692931987432593005 0
 71/home/hungptran/playground/node_modules/@swc/helpers/cjs/_ts_values.cjs1692931987272594364 0
 73/home/hungptran/playground/node_modules/lmdb/dependencies/lz4/lib/LICENSE1692931987300594126 0
-26/home/hungptran/playground1692932123447442891 1
+26/home/hungptran/playground1692969918645429407 1
 109/home/hungptran/playground/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/property/font.js1692931987120595655 0
 83/home/hungptran/playground/node_modules/@parcel/package-manager/test/fixtures/empty1692931990700565244 1
 72/home/hungptran/playground/node_modules/@parcel/core/src/public/Asset.js1692931990472567181 0
@@ -2407,7 +2407,7 @@
 64/home/hungptran/playground/node_modules/nth-check/lib/parse.d.ts1692931987008596607 0
 68/home/hungptran/playground/node_modules/weak-lru-cache/tests/test.js1692931986884597660 0
 66/home/hungptran/playground/node_modules/@parcel/workers/index.d.ts1692931988300585630 0
-46/home/hungptran/playground/github_identicon.js1692932269894214740 0
+46/home/hungptran/playground/github_identicon.js1692969898745581480 0
 71/home/hungptran/playground/node_modules/@swc/helpers/_/_read_only_error1692931987616591442 1
 63/home/hungptran/playground/node_modules/@parcel/package-manager1692931990752564802 1
 73/home/hungptran/playground/node_modules/postcss-value-parser/package.json1692931986892597593 0
@@ -3344,7 +3344,7 @@
 57/home/hungptran/playground/node_modules/@parcel/core/test1692931990536566637 1
 92/home/hungptran/playground/node_modules/csso/node_modules/css-tree/cjs/syntax/node/index.cjs1692931990388567894 0
 53/home/hungptran/playground/node_modules/parent-module1692931986836598068 1
-51/home/hungptran/playground/dist/github_identicon.js1692932277698149538 0
+51/home/hungptran/playground/dist/github_identicon.js1692969919289424487 0
 62/home/hungptran/playground/node_modules/path-type/package.json1692931986812598272 0
 52/home/hungptran/playground/node_modules/lightningcss1692931987144595451 1
 85/home/hungptran/playground/node_modules/csso/node_modules/css-tree/cjs/utils/List.cjs1692931990388567894 0
